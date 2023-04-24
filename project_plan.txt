@@ -1,5 +1,4 @@
 1. tempogram, onset detection
-2. salience representation
 3. Chromagram
 4. PCD
 

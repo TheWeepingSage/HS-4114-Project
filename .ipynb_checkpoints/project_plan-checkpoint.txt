@@ -1,0 +1,5 @@
+1. tempogram, onset detection
+3. Chromagram
+4. PCD
+
+
